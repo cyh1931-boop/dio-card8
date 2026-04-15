@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <title>Dio.L9 - 이동규 부장</title>
 
-<meta property="og:title" content="이동규 부장 · 평촌 디오르나인 안양역 분양 상담">
+<meta property="og:title" content="이동규 부장 · 안양 디오르나인 안양역 분양 상담">
 <meta property="og:description" content="오늘 계약·오늘 입주, 안양역 더블 초역세권 디오르나인 상담은 이동규 부장에게 문의하세요.">
 <meta property="og:url" content="https://cyh1931-boop.github.io/dio-card8/">
 <meta property="og:type" content="website">
